@@ -696,7 +696,7 @@ def _col(sender, app_data, user_data):
 def setup_ui():
     dpg.create_context()
 
-    with dpg.window(label="ESP Controls", width=280, height=340,
+    with dpg.window(label="python esp", width=280, height=340,
                     no_close=True, no_collapse=True):
 
         dpg.add_text("ESP")
