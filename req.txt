@@ -1,0 +1,5 @@
+download pymeow 
+
+https://github.com/qb-0/pyMeow
+
+and download all library by urself
